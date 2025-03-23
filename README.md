@@ -15,7 +15,7 @@ If you use this work, please cite the following paper:
 
 **Wang, Julian Junyan and Wang, Victor Xiaoqi (2024).**  
 *"Leveraging Large Language Models to Democratize Access to Costly Financial Datasets for Academic Research."*  
-Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract=5012660)
+Available at SSRN: [https://ssrn.com/abstract=5012660]
 
 ---
 
